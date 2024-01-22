@@ -111,6 +111,7 @@ if st.button('Recommend'):
         st.write(movie_info['stars'].values[0])
 
 st.markdown("---")
-st.subheader((''':white[PROJECT DONE BY: Mr. MANU_R: ]'''))
+st.subheader((''':white[PROJECT DONE BY: Group 4: ]'''))
+'Mr. Vijay Balnath Rawal'' | ''Mr. Sachin Sampath'' | ''Ms. Kavana V'' | ''Mr. Rushikesh Chandrashekhar Bhongal'' | ''Mr. Penugonda Kiran Kumar '' | ''Mr. Manu R '' | ''Mr. Ramachandra Laxman Patil  |'
 st.markdown("---")
 
